@@ -1,0 +1,61 @@
+{
+    "projects": [
+        {
+            "title": "Sonora Cloud",
+            "img": "img/SonoraCloud.jpg",
+            "desc": "Site de Streaming de audio",
+            "github": "https://github.com/TiagoPaulino/SonoraCloud",
+            "site": "https://SonoraCloud.vercel.app/", 
+            "imageType": "wide"
+        },
+
+        {
+            "title": "Gallery",
+            "img": "img/Galley.jpg",
+            "desc": "Galeria API Pexels",
+            "github": "https://github.com/TiagoPaulino/Gallery-pexels",
+            "site": "https://tiagopaulino.github.io/Gallery-pexels/",
+            "imageType": "potrait"
+        },
+        {
+            "title": "Airbnb - Clone",
+            "img": "img/airbnb.jpg",
+            "desc": "Clone da interface Airbnb",
+            "github": "https://github.com/TiagoPaulino/airbnbclone",
+            "site": "https://tiagopaulino.github.io/airbnbclone/",
+            "imageType": "potrait"
+        },
+        {
+            "title": "RainbowMusic",
+            "img": "img/RainbowMusic.jpg",
+            "desc": "Interface Semelhante Spotfy",
+            "github": "https://github.com/TiagoPaulino/Purple-Music",
+            "site": "https://tiagopaulino.github.io/Purple-Music/",
+            "imageType": "wide"
+        }, 
+        {
+            "title": "Tvelia",
+            "img": "img/Tvelia.jpg",
+            "desc": "Site de viagens",
+            "github": "https://github.com/TiagoPaulino/TveliaWeb",
+            "site": "https://tiagopaulino.github.io/TveliaWeb/", 
+            "imageType": "potrait"
+        },
+        {
+            "title": "Stars Terrains",
+            "img": "img/StarsTerrains.jpg",
+            "desc": "Terrenos Planetários", 
+            "github": "https://github.com/TiagoPaulino/SpaceTerrains",
+            "site": "https://tiagopaulino.github.io/SpaceTerrains/", 
+            "imageType": "potrait"
+        }, 
+        {
+            "title": "Land Page",
+            "img": "img/codewell.jpg",
+            "desc": "Landing Page",
+            "github": "https://github.com/TiagoPaulino/PortifolioCodewell",
+            "site": "https://tiagopaulino.github.io/PortifolioCodewell/", 
+            "imageType": "potrait"
+        }
+    ]
+}
